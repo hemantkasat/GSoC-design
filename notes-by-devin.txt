@@ -1,0 +1,6 @@
+2016-05-20
+
+Please add more detail to your descriptions of the widgets. Each proposal should be 3-5 pages.
+
+* How will the widgets integrate with the overall UI?
+* What parts of the code will you need to study and understand in order to create the widgets?
