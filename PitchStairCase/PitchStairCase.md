@@ -1,11 +1,24 @@
 
-
-The design for the widget pitch slider is shown below.
+Below is the image of the design we can take for the widget pitch stair case.
 
 ![Alt tag](https://raw.githubusercontent.com/hemantkasat/GSoC-design/master/PitchStairCase/pitchstaircase.png)
 
-As can be seen in the image it consist of play, export, button for choosing instrument and close 
-button. We have a slider to slide through the sliding area having frequency division ( pitch division).
 
-For division we can either show the absolute frequency of the sound or we can show the notes like (    
-C, D etc. ) . Or we can show notes and absolute frequency both at the same time.
+It consist of play, export, close and button for choosing the instrument to be played.
+So key concept is as the height of the stair increases the frequency increases hence the pitch of the sound increases.
+
+For example in the design image
+	First stair corresponds to 440 Hz having musical ratio 9:8(Pythagorean whole tone ) 
+	Second stair have musical ratio 4:3 ( Perfect Fourth ) and hence corresponds to frequency
+	equal to (4/3)*440 = 	586.67 Hz
+	Third stair have musical ratio 3:2 ( Perfect Fifth ) and hence corresponds to frequency equal 
+	to (3/2)*440 = 660 Hz
+	Fourth stair have musical ration 2:1 ( Octave ) and hence corresponds to frequency equal to 
+	(2)*440 = 880 Hz
+
+An another feature, the frequency distribution is described by the sine wave in the stair, we see that wavlength of the sine wave is decreasing as the height of the stair increase this shows that the frequency is increasing as the height is increasing.
+
+
+
+
+
