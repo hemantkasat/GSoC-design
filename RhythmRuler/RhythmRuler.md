@@ -1,5 +1,5 @@
 				Rhythm Ruler Design
-Below diagram represents an rough instance of Rhythm Ruler:->
+Below diagram represents an rough instance of Rhythm Ruler:->
 
 ![alt tag](https://raw.githubusercontent.com/hemantkasat/GSoC-design/master/RhythmRuler/Rhythm-Ruler-Design.png)
 It consists of play, close, export button and a button to choose beat instrument. It represent a whole note divided into 3 notes with different note value, 1st and 2nd of note value 4 and 3rd of note value of 2.This three notes are represented in three different dissection with their musical notation.
